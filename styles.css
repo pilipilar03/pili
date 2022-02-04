@@ -1,5 +1,5 @@
 body {
-    background-color: darkseagreen;
+    background-color: rgb(139, 230, 246);
 }
 
 /*changing paragraph element property values */
@@ -8,4 +8,11 @@ p {
     font-size: 80px;
     color: darkslategray;
     text-align: center;
+}
+
+ul{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 80px;
+    color: hotpink;
+    text-align: left
 }
